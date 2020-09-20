@@ -1,0 +1,26 @@
+{
+  "name": "node-power-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "configstore": "^5.0.1",
+    "enquirer": "^2.3.6",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0",
+    "node-fetch": "^2.6.1",
+    "ora": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
